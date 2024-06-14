@@ -30,3 +30,5 @@ This custom GPT, named Dataset Analysis Judge Bot, is designed to assist agencie
    Alice Brown,alice.brown@example.com,"Website traffic data for the last year","The data reveals a steady increase in traffic, with notable spikes during promotional events..."
    Bob Johnson,bob.johnson@example.com,"Product usage data","Analysis of usage patterns shows that the majority of users engage with the product in the evening hours..."
    Mary Lee,mary.lee@example.com,"Social media engagement data","The engagement analysis indicates that posts with images receive 40% more interaction than text-only posts..."
+
+4. **Input Handling:**
