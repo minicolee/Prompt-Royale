@@ -1,4 +1,4 @@
-# Prompt Royale Bots Repository
+# Prompt Royale Judge Bot
 
 Welcome to the official repository for all the bots created for the purpose of running Prompt Royale, a prompt engineering tournament. This repository serves as a central hub where you can find each bot along with the custom instructions that were used for their operation.
 
